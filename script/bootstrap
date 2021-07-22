@@ -1,4 +1,3 @@
-chmod +x bootstrap.sh
 #!/bin/sh
 
 set -e
