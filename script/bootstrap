@@ -1,3 +1,4 @@
+chmod +rx script.sh
 #!/bin/sh
 
 set -e
