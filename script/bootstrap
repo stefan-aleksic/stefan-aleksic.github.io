@@ -1,3 +1,6 @@
+find. -name ".sh"| xargs chmod a+x
+find. -name ".bash"| xargs chmod a+x
+
 #!/bin/sh
 
 set -e
