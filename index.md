@@ -1,5 +1,6 @@
 ---
-layout: default
+title: My website
+description: Collection of work done so far
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
