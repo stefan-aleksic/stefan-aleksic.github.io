@@ -1,6 +1,4 @@
-find. -name ".sh"| xargs chmod 777
-find. -name ".bash"| xargs chmod 777
-
+chmod +x bootstrap.sh
 #!/bin/sh
 
 set -e
